@@ -260,7 +260,7 @@
                   ]
                 },
                 "mode": "000644",
-                "owner": "root",
+                "owner": "ec2-user",
                 "group": "root"
               }
             },
