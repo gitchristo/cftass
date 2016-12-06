@@ -255,7 +255,7 @@
                   "Fn::Join": [
                     "\n",
                     [
-                      "<h1>Hello Apache 2nd try</h1>"
+                      "<h1>This is the initial index.html file created by--- JOB 1</h1>"
                     ]
                   ]
                 },
